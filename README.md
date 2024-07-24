@@ -1,4 +1,4 @@
-#This is a full-stack e-commerce website built using the MERN stack (MongoDB, Express.js, React, and Node.js). The application features product listings, user authentication, shopping cart functionality, and order #management.
+This is a full-stack e-commerce website built using the MERN stack (MongoDB, Express.js, React, and Node.js). The application features product listings, user authentication, shopping cart functionality, and order management.
 
 Features
 User authentication (sign up, login, password reset)
